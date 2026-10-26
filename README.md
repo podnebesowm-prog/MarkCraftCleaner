@@ -1,39 +1,48 @@
-==================================================
-            MARKCRAFT CLEANER v1.0 BETA
-==================================================
+MarkCraft Cleaner
 
-Welcome to MarkCraft Cleaner!
-Thank you for purchasing our software. We make your PC faster and cleaner.
+**Official PC cleaning software by MarkCraft Corporation.**
 
---------------------------------------------------
-?? INSTALLATION
---------------------------------------------------
-1. Run the MarkCraft_Cleaner_Setup.exe file.
-2. Follow the installer instructions.
-3. A shortcut will appear on your desktop after installation.
+Welcome to the official repository! Here you can download the latest version of our software and learn how to activate it.
 
---------------------------------------------------
-?? ACTIVATION (IMPORTANT!)
---------------------------------------------------
-The software is protected against piracy (1 key = 1 PC).
-1. Launch MarkCraft Cleaner.
-2. On the activation screen, you will see your unique "PC ID" (16 characters).
-3. Copy this ID and send it to the seller (developer) you bought the software from.
-4. The seller will send you your license key.
-5. Enter the key in the program and click "Activate".
-6. Done! The program is activated for 365 days.
+---
 
---------------------------------------------------
-?? TROUBLESHOOTING
---------------------------------------------------
-* Antivirus flags the installer?
-  The program is written in Python. Some antiviruses (like Windows Defender) may trigger false positives on new .exe files. Allow the execution or add it to exceptions.
+Installation
 
-* The program says "keys.dat not found"?
-  This means you launched the program, but the license file (keys.dat) is not in the same folder. Reinstall using the setup file, it will place all files correctly.
+1. Go to the **Releases** section on the right side of this page.
+2. Download the latest installer (`MarkCraftCleaner_Setup_1.0.exe`) or the portable version (`MarkCraftCleaner_Portable.zip`).
+3. Run the installer and follow the instructions (accept the license agreement).
+4. A shortcut will appear on your desktop after installation.
 
---------------------------------------------------
-?? SUPPORT
---------------------------------------------------
-For any questions, contact your seller on the marketplace (Playerok or Telegram).
+*(If you are using the Portable version, just unzip the archive and run the `.exe` file).*
+
+---
+
+Activation (PRO Features)
+
+To unlock all features (Registry cleaning, etc.), you need to activate the program:
+1. Launch the program and go to the **"Activation"** tab.
+2. Copy your unique **PC ID** (HWID).
+3. Send this ID to us (via Telegram or our website) to get your personal license key.
+4. Enter the key in the program and click **"Activate"**.
+
+
+
+About the Program
+
+**MarkCraft Cleaner** is designed to make your PC faster and cleaner.
+*   Safe cleaning of Windows temporary files.
+*   Emptying the Recycle Bin.
+*   Registry cache cleaning (PRO version).
+*   Modern interface with support for 4 languages (Russian, English, Chinese, Japanese).
+*   High security (license binding to PC ID).
+
+
+
+Official Links
+
+*   **Website:** [markcraftcorp.netlify.app](https://markcraftcorp.netlify.app/)
+*   **Telegram Channel:** [@markcraft_official1](https://t.me/markcraft_official1)
+*   **GitHub Profile:** [@podnebesowm-prog](https://github.com/podnebesowm-prog)
+
+
 © 2026 MarkCraft Corporation. All rights reserved.
